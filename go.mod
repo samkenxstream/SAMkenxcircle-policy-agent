@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/aws/aws-sdk-go v1.44.175
-	github.com/containerd/containerd v1.6.15
+	github.com/containerd/containerd v1.6.19
 	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/open-policy-agent/opa v0.47.4
 	github.com/stretchr/testify v1.8.1
@@ -20,7 +20,7 @@ require (
 
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
-	github.com/Microsoft/hcsshim v0.9.6 // indirect
+	github.com/Microsoft/hcsshim v0.9.7 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/containerd/cgroups v1.0.4 // indirect
